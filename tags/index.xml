@@ -1,11 +1,174 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on my blog!</title>
+    <title>Tags on Sophia Baca</title>
     <link>https://bacas2.github.io/tags/</link>
-    <description>Recent content in Tags on my blog!</description>
+    <description>Recent content in Tags on Sophia Baca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>John Doe - All rights reserved</copyright><atom:link href="https://bacas2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>Sophia Baca - All rights reserved</copyright>
+    <lastBuildDate>Sat, 23 Dec 2023 19:19:59 -0700</lastBuildDate><atom:link href="https://bacas2.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>data analysis</title>
+      <link>https://bacas2.github.io/tags/data-analysis/</link>
+      <pubDate>Sat, 23 Dec 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/data-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>data visualization</title>
+      <link>https://bacas2.github.io/tags/data-visualization/</link>
+      <pubDate>Sat, 23 Dec 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/data-visualization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://bacas2.github.io/tags/python/</link>
+      <pubDate>Sat, 23 Dec 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://bacas2.github.io/tags/r/</link>
+      <pubDate>Sat, 23 Dec 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>renewable energy</title>
+      <link>https://bacas2.github.io/tags/renewable-energy/</link>
+      <pubDate>Sat, 23 Dec 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/renewable-energy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>root cause analysis</title>
+      <link>https://bacas2.github.io/tags/root-cause-analysis/</link>
+      <pubDate>Sat, 23 Dec 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/root-cause-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://bacas2.github.io/tags/tableau/</link>
+      <pubDate>Sat, 23 Dec 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/tableau/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>time series</title>
+      <link>https://bacas2.github.io/tags/time-series/</link>
+      <pubDate>Sat, 23 Dec 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/time-series/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Azure</title>
+      <link>https://bacas2.github.io/tags/azure/</link>
+      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bioinformatics</title>
+      <link>https://bacas2.github.io/tags/bioinformatics/</link>
+      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/bioinformatics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>C&#43;&#43;</title>
+      <link>https://bacas2.github.io/tags/c&#43;&#43;/</link>
+      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Databricks</title>
+      <link>https://bacas2.github.io/tags/databricks/</link>
+      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/databricks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>genomics</title>
+      <link>https://bacas2.github.io/tags/genomics/</link>
+      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/genomics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>power bi</title>
+      <link>https://bacas2.github.io/tags/power-bi/</link>
+      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/power-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RNA Seq</title>
+      <link>https://bacas2.github.io/tags/rna-seq/</link>
+      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/rna-seq/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SQL Server</title>
+      <link>https://bacas2.github.io/tags/sql-server/</link>
+      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/sql-server/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>streamlit</title>
+      <link>https://bacas2.github.io/tags/streamlit/</link>
+      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/streamlit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unix</title>
+      <link>https://bacas2.github.io/tags/unix/</link>
+      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/unix/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

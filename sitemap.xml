@@ -2,13 +2,87 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://bacas2.github.io/about/</loc>
-    <lastmod>2023-07-02T17:28:31-07:00</lastmod>
+    <loc>https://bacas2.github.io/tags/data-analysis/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
   </url><url>
-    <loc>https://bacas2.github.io/categories/</loc>
+    <loc>https://bacas2.github.io/tags/data-visualization/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/projects/poisson-forecast/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/projects/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/python/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/r/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/renewable-energy/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/projects/world-energy-forecast/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/root-cause-analysis/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
   </url><url>
     <loc>https://bacas2.github.io/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/tableau/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
   </url><url>
     <loc>https://bacas2.github.io/tags/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/time-series/</loc>
+    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/azure/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/bioinformatics/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/c&#43;&#43;/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/databricks/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/genomics/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/projects/nyc-taxi-streamlit/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/power-bi/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/projects/powerbi-directquery/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/rna-seq/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/projects/rna-seq-rice/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/sql-server/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/streamlit/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/projects/trains/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/unix/</loc>
+    <lastmod>2023-07-10T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/categories/</loc>
   </url>
 </urlset>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>genomics on Sophia Baca</title>
+    <link>https://bacas2.github.io/tags/genomics/</link>
+    <description>Recent content in genomics on Sophia Baca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Sophia Baca - All rights reserved</copyright>
+    <lastBuildDate>Mon, 10 Jul 2023 19:19:59 -0700</lastBuildDate><atom:link href="https://bacas2.github.io/tags/genomics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RNA-Seq Analysis for Rice</title>
+      <link>https://bacas2.github.io/projects/rna-seq-rice/</link>
+      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/projects/rna-seq-rice/</guid>
+      <description>I performed data analysis for a research paper wherein we were interested in studying time series RNA-Seq data for rice. My fellow developers and I created a data analysis pipeline for the RNA-Seq data wherein we identified differentially expressed genes (DEGs) and described their gene ontology (cellular component, molecular function, biological process).</description>
+    </item>
+    
+  </channel>
+</rss>

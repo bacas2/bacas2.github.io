@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mine on Sophia Baca Title</title>
+    <link>https://bacas2.github.io/tags/mine/</link>
+    <description>Recent content in mine on Sophia Baca Title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Sophia Baca - All rights reserved</copyright>
+    <lastBuildDate>Wed, 05 Jul 2023 20:48:45 -0700</lastBuildDate><atom:link href="https://bacas2.github.io/tags/mine/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post :)</title>
+      <link>https://bacas2.github.io/projects/my-first-post/</link>
+      <pubDate>Wed, 05 Jul 2023 20:48:45 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/projects/my-first-post/</guid>
+      <description>Lorem ipsum lorem ipsum dolor sit amet</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL Server on Sophia Baca</title>
+    <link>https://bacas2.github.io/tags/sql-server/</link>
+    <description>Recent content in SQL Server on Sophia Baca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Sophia Baca - All rights reserved</copyright>
+    <lastBuildDate>Mon, 10 Jul 2023 19:19:59 -0700</lastBuildDate><atom:link href="https://bacas2.github.io/tags/sql-server/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Purchase Requisitions with Power BI Direct Query</title>
+      <link>https://bacas2.github.io/projects/powerbi-directquery/</link>
+      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/projects/powerbi-directquery/</guid>
+      <description>This project created a Power BI report to track purchase requisitions (PRs) that are normally tracked across several external data stores.
+I worked with the database team to create a SQL Server view that summarizes all of the data needed for people to track their PRs The data was inmported into Power BI report using Direct Query The report was designed such that the user&amp;rsquo;s AD information was used to display only their pertinent PRs The report is shared via an on prem Power BI Report Server </description>
+    </item>
+    
+  </channel>
+</rss>
