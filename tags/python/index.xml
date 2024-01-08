@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Python on Sophia Baca</title>
+    <title>python on Sophia Baca</title>
     <link>https://bacas2.github.io/tags/python/</link>
-    <description>Recent content in Python on Sophia Baca</description>
+    <description>Recent content in python on Sophia Baca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Sophia Baca - All rights reserved</copyright>
@@ -15,17 +15,7 @@
       
       <guid>https://bacas2.github.io/projects/poisson-forecast/</guid>
       <description>This is an ongoing project wherein I am exploring methods for generating predictions for discrete time series data.
-This data falls within the exponential family of probability distributions, as the output event is binary but could occur multiple times within a day.</description>
-    </item>
-    
-    <item>
-      <title>NYC Taxi Streamlit</title>
-      <link>https://bacas2.github.io/projects/nyc-taxi-streamlit/</link>
-      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
-      
-      <guid>https://bacas2.github.io/projects/nyc-taxi-streamlit/</guid>
-      <description>Recently I have been working with streamlit and azure.
-I took a sample of the NYC Taxi Dataset from Databricks. I imported it into a Python streamlit project that creates a dashboard that summarizes features.</description>
+This can be called many things: predictive maintenance, condition based maintenance.</description>
     </item>
     
   </channel>

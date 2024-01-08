@@ -18,16 +18,6 @@
     </item>
     
     <item>
-      <title>NYC Taxi Streamlit</title>
-      <link>https://bacas2.github.io/projects/nyc-taxi-streamlit/</link>
-      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
-      
-      <guid>https://bacas2.github.io/projects/nyc-taxi-streamlit/</guid>
-      <description>Recently I have been working with streamlit and azure.
-I took a sample of the NYC Taxi Dataset from Databricks. I imported it into a Python streamlit project that creates a dashboard that summarizes features.</description>
-    </item>
-    
-    <item>
       <title>Purchase Requisitions with Power BI Direct Query</title>
       <link>https://bacas2.github.io/projects/powerbi-directquery/</link>
       <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
@@ -43,9 +33,7 @@ I worked with the database team to create a SQL Server view that summarizes all 
       <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
       
       <guid>https://bacas2.github.io/projects/trains/</guid>
-      <description>This project was an analysis of train incident and accident data.
-Exploratory data analysis was performed using tableau:
-Here is a picture of the figure i made: </description>
+      <description>Have U.S. railroad operations become more dangerous recently? This project was inspired by recent news of the 2023 Norfolk Southern derailment in Ohio. This train accident and incident data was obtained from the Federal Railroad Administration.</description>
     </item>
     
   </channel>

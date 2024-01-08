@@ -32,9 +32,7 @@
       <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
       
       <guid>https://bacas2.github.io/projects/trains/</guid>
-      <description>This project was an analysis of train incident and accident data.
-Exploratory data analysis was performed using tableau:
-Here is a picture of the figure i made: </description>
+      <description>Have U.S. railroad operations become more dangerous recently? This project was inspired by recent news of the 2023 Norfolk Southern derailment in Ohio. This train accident and incident data was obtained from the Federal Railroad Administration.</description>
     </item>
     
   </channel>

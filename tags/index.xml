@@ -27,7 +27,16 @@
     </item>
     
     <item>
-      <title>Python</title>
+      <title>machine learning</title>
+      <link>https://bacas2.github.io/tags/machine-learning/</link>
+      <pubDate>Sat, 23 Dec 2023 19:19:59 -0700</pubDate>
+      
+      <guid>https://bacas2.github.io/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
       <link>https://bacas2.github.io/tags/python/</link>
       <pubDate>Sat, 23 Dec 2023 19:19:59 -0700</pubDate>
       
@@ -81,15 +90,6 @@
     </item>
     
     <item>
-      <title>Azure</title>
-      <link>https://bacas2.github.io/tags/azure/</link>
-      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
-      
-      <guid>https://bacas2.github.io/tags/azure/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>bioinformatics</title>
       <link>https://bacas2.github.io/tags/bioinformatics/</link>
       <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
@@ -104,15 +104,6 @@
       <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
       
       <guid>https://bacas2.github.io/tags/c&#43;&#43;/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Databricks</title>
-      <link>https://bacas2.github.io/tags/databricks/</link>
-      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
-      
-      <guid>https://bacas2.github.io/tags/databricks/</guid>
       <description></description>
     </item>
     
@@ -149,15 +140,6 @@
       <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
       
       <guid>https://bacas2.github.io/tags/sql-server/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>streamlit</title>
-      <link>https://bacas2.github.io/tags/streamlit/</link>
-      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
-      
-      <guid>https://bacas2.github.io/tags/streamlit/</guid>
       <description></description>
     </item>
     

@@ -11,18 +11,15 @@
 	
 	
 
-	<meta name="twitter:card" content="summary"/>
+	<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:image" content="https://bacas2.github.io/projects/trains/cover.png"/>
 <meta name="twitter:title" content="Train Accidents in the U.S."/>
-<meta name="twitter:description" content="This project was an analysis of train incident and accident data.
-Exploratory data analysis was performed using tableau:
-Here is a picture of the figure i made: "/>
+<meta name="twitter:description" content="Have U.S. railroad operations become more dangerous recently? This project was inspired by recent news of the 2023 Norfolk Southern derailment in Ohio. This train accident and incident data was obtained from the Federal Railroad Administration."/>
 
 	<meta property="og:title" content="Train Accidents in the U.S." />
-<meta property="og:description" content="This project was an analysis of train incident and accident data.
-Exploratory data analysis was performed using tableau:
-Here is a picture of the figure i made: " />
+<meta property="og:description" content="Have U.S. railroad operations become more dangerous recently? This project was inspired by recent news of the 2023 Norfolk Southern derailment in Ohio. This train accident and incident data was obtained from the Federal Railroad Administration." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://bacas2.github.io/projects/trains/" /><meta property="article:section" content="projects" />
+<meta property="og:url" content="https://bacas2.github.io/projects/trains/" /><meta property="og:image" content="https://bacas2.github.io/projects/trains/cover.png"/><meta property="article:section" content="projects" />
 <meta property="article:published_time" content="2023-07-10T19:19:59-07:00" />
 <meta property="article:modified_time" content="2023-07-10T19:19:59-07:00" />
 
@@ -32,7 +29,7 @@ Here is a picture of the figure i made: " />
 	<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
 
 	
-	<link rel="stylesheet" href="https://bacas2.github.io/css/medium.2e530480e8ebab0159ce35be52a125632ea4061d6f5b8288040dd7da16805a8e.css" integrity="sha256-LlMEgOjrqwFZzjW&#43;UqElYy6kBh1vW4KIBA3X2haAWo4=">
+	<link rel="stylesheet" href="https://bacas2.github.io/css/medium.92d281fc8b8e672220e3eaf849fa623b86f85fbf3116a50111818b5ee8931c2f.css" integrity="sha256-ktKB/IuOZyIg4&#43;r4SfpiO4b4X78xFqUBEYGLXuiTHC8=">
 
 	
 	<link rel="stylesheet" href="https://bacas2.github.io/css/additional.84b88349d43c02b8043c9484ae379ddfb47f2e4bbe4be7259a25a3921af2f7ec.css" integrity="sha256-hLiDSdQ8ArgEPJSErjed37R/Lku&#43;S&#43;clmiWjkhry9&#43;w=">
@@ -121,14 +118,49 @@ Here is a picture of the figure i made: " />
                     
                     
                     
+                        <img class="featured-image img-fluid" src="https://bacas2.github.io/projects/trains/cover.png" alt="thumbnail for this post">
+                    
                     
 
                     
                     <div class="article-post">
-                        <p>This project was an analysis of train incident and accident data.</p>
-<p>Exploratory data analysis was performed using tableau:</p>
-<p>Here is a picture of the figure i made:
-<img src="trains.png" alt=""></p>
+                        <h3 id="have-us-railroad-operations-become-more-dangerous-recently">Have U.S. railroad operations become more dangerous recently?</h3>
+<p>This project was inspired by recent news of the 2023 Norfolk Southern derailment in Ohio. This train accident and incident data was obtained from the Federal Railroad Administration. Specifically, we looked at data colleceted between 2000 and 2022.</p>
+<p>One way of assessing how dangerous a rail accident is to use the number of train cars that were damaged out of the total number on the train. However, the dataset did not contain this information. Instead, we assessed the number of damaged hazmat cars, as we had access to the total number that were on board. This value was transformed into a hazmat ratio, which is a ratio between the damaged hazmat cars out of the total number of hazmat cars.</p>
+<h2 id="research-question-1">Research question 1</h2>
+<p>Is there a significant relationship between the number of engineers and conductors on a train (dependent variables) and the ratio of hazmat cars that are damaged in a rail accident (independent variable)?</p>
+<p>The Government Accountability Office News outlets reported how rail companies reduced the number of staff by 20%.</p>
+<h3 id="statistical-tests">Statistical tests</h3>
+<ul>
+<li>Multiple linear regression
+<ul>
+<li>This helped us determine if an increase in derailments is correlated with having less staff</li>
+</ul>
+</li>
+<li>Added variable plot
+<ul>
+<li>Visualzed the partial correlation between the multiple independent variables</li>
+</ul>
+</li>
+</ul>
+<p><img src="mlr.png" alt="">
+<img src="partial-correlation.png" alt=""></p>
+<p>Conclusion</p>
+<p>A significant correlation was found between a reduced number of conductors and engineers and an increase in the ratio of damaged hazmat cars.</p>
+<h2 id="research-question-2">Research question 2</h2>
+<p>Is there a significant relationship between the range of years that a railroad accident occurred (dependent variable) and the ratio of hazmat cars that are damaged in a rail accident (independent variable)?</p>
+<h3 id="statistical-tests-1">Statistical tests</h3>
+<ul>
+<li>Two-tailed Mann-Whitney U test
+<ul>
+<li>Determined if if there is a statistically significant difference in the hazmat ratios between the year ranges of 2000-2018 and 2019-2022</li>
+<li>The data was not normally distributed, so a two sample t-test could not be used.</li>
+</ul>
+</li>
+</ul>
+<p><img src="mann-whitney-u.png" alt=""></p>
+<p>Conclusion</p>
+<p>Using the Mann-Whitney U test, the mean ratio of damaged hazmat cars has fallen in 2019-2022 when compared to 2000-2018.</p>
 
                     </div>
                     
@@ -184,8 +216,6 @@ Here is a picture of the figure i made: " />
 		</div>
 		<div class="col-md-8 p-5 align-self-center text-center">
 			
-			<a class="mt-1 mb-1" href="/tags/azure">azure</a>
-			
 			<a class="mt-1 mb-1" href="/tags/bioinformatics">bioinformatics</a>
 			
 			<a class="mt-1 mb-1" href="/tags/c&#43;&#43;">c&#43;&#43;</a>
@@ -194,9 +224,9 @@ Here is a picture of the figure i made: " />
 			
 			<a class="mt-1 mb-1" href="/tags/data-visualization">data-visualization</a>
 			
-			<a class="mt-1 mb-1" href="/tags/databricks">databricks</a>
-			
 			<a class="mt-1 mb-1" href="/tags/genomics">genomics</a>
+			
+			<a class="mt-1 mb-1" href="/tags/machine-learning">machine-learning</a>
 			
 			<a class="mt-1 mb-1" href="/tags/power-bi">power-bi</a>
 			
@@ -211,8 +241,6 @@ Here is a picture of the figure i made: " />
 			<a class="mt-1 mb-1" href="/tags/root-cause-analysis">root-cause-analysis</a>
 			
 			<a class="mt-1 mb-1" href="/tags/sql-server">sql-server</a>
-			
-			<a class="mt-1 mb-1" href="/tags/streamlit">streamlit</a>
 			
 			<a class="mt-1 mb-1" href="/tags/tableau">tableau</a>
 			

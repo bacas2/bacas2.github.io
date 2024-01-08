@@ -15,7 +15,7 @@
       
       <guid>https://bacas2.github.io/projects/poisson-forecast/</guid>
       <description>This is an ongoing project wherein I am exploring methods for generating predictions for discrete time series data.
-This data falls within the exponential family of probability distributions, as the output event is binary but could occur multiple times within a day.</description>
+This can be called many things: predictive maintenance, condition based maintenance.</description>
     </item>
     
     <item>

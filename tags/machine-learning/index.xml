@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>root cause analysis on Sophia Baca</title>
-    <link>https://bacas2.github.io/tags/root-cause-analysis/</link>
-    <description>Recent content in root cause analysis on Sophia Baca</description>
+    <title>machine learning on Sophia Baca</title>
+    <link>https://bacas2.github.io/tags/machine-learning/</link>
+    <description>Recent content in machine learning on Sophia Baca</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Sophia Baca - All rights reserved</copyright>
-    <lastBuildDate>Sat, 23 Dec 2023 19:19:59 -0700</lastBuildDate><atom:link href="https://bacas2.github.io/tags/root-cause-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Dec 2023 19:19:59 -0700</lastBuildDate><atom:link href="https://bacas2.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poisson Distributed Forecast</title>
       <link>https://bacas2.github.io/projects/poisson-forecast/</link>

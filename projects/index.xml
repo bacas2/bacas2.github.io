@@ -15,7 +15,7 @@
       
       <guid>https://bacas2.github.io/projects/poisson-forecast/</guid>
       <description>This is an ongoing project wherein I am exploring methods for generating predictions for discrete time series data.
-This data falls within the exponential family of probability distributions, as the output event is binary but could occur multiple times within a day.</description>
+This can be called many things: predictive maintenance, condition based maintenance.</description>
     </item>
     
     <item>
@@ -25,16 +25,6 @@ This data falls within the exponential family of probability distributions, as t
       
       <guid>https://bacas2.github.io/projects/world-energy-forecast/</guid>
       <description>Which nations offer the most attractive environment for renewable energy investments? To answer this question, my teammates and I created the Renewable Energy Momentum Index, a quantitative score encompassing each country&amp;rsquo;s market potential and receptivity to renewable energy.</description>
-    </item>
-    
-    <item>
-      <title>NYC Taxi Streamlit</title>
-      <link>https://bacas2.github.io/projects/nyc-taxi-streamlit/</link>
-      <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
-      
-      <guid>https://bacas2.github.io/projects/nyc-taxi-streamlit/</guid>
-      <description>Recently I have been working with streamlit and azure.
-I took a sample of the NYC Taxi Dataset from Databricks. I imported it into a Python streamlit project that creates a dashboard that summarizes features.</description>
     </item>
     
     <item>
@@ -62,9 +52,7 @@ I worked with the database team to create a SQL Server view that summarizes all 
       <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
       
       <guid>https://bacas2.github.io/projects/trains/</guid>
-      <description>This project was an analysis of train incident and accident data.
-Exploratory data analysis was performed using tableau:
-Here is a picture of the figure i made: </description>
+      <description>Have U.S. railroad operations become more dangerous recently? This project was inspired by recent news of the 2023 Norfolk Southern derailment in Ohio. This train accident and incident data was obtained from the Federal Railroad Administration.</description>
     </item>
     
   </channel>
