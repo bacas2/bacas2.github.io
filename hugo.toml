@@ -1,0 +1,51 @@
+baseURL = "https://bacas2.github.io/"
+languageCode = "en-us"
+title = "Sophia Baca"
+
+theme = "mediumish-gohugo-theme"
+summaryLength = 25
+copyright = "Sophia Baca - All rights reserved"
+enableEmoji = true
+publishDir = "public"
+#disqusShortname = "your-shortname-here"
+#googleAnalytics = "UA-1XXXXXXX1-1"
+
+[params]
+  logo = "images/icon2.png"
+  #description ="Welcome to my blog!"
+  #mailchimp = "you can provide a mailchimp-link here"
+
+#[params.author]
+  #name = "John Doe"
+  #thumbnail = "/images/author.png"
+  #description = "Creator of this blog."
+
+[params.index]
+  picture = "/images/sophia-baca.png"
+  title = "Welcome!"
+  subtitle = ""
+  mdtext = '''
+Data Analytics M.S. @ UNLV. \
+hiaba22@gmail.com
+
+Data Science \
+Currently I am helping improve data post-processing for preparing an Integrated Resource Plan. \
+My background is in time series forecasting for machine predictive maintenance, machine learning, and bioinformatics. 
+
+
+'''
+  alertbar = false
+
+[params.social]
+  github = "bacas2"
+  linkedin = "sophia-baca-4a6b50123"
+  #xing = "<username>"
+  #medium = "<username>"
+  #twitter = "<username>"
+
+## Main Menu
+[[menu.main]]
+    name = "Projects"
+    weight = 100
+    identifier = "projects"
+    url = "/projects"
