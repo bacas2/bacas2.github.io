@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>forecasting on Sophia Baca</title>
+    <link>https://bacas2.github.io/tags/forecasting/</link>
+    <description>Recent content in forecasting on Sophia Baca</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Sophia Baca - All rights reserved</copyright>
+    <lastBuildDate>Wed, 25 Sep 2024 19:19:59 -0700</lastBuildDate>
+    <atom:link href="https://bacas2.github.io/tags/forecasting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mixed Integer Programming Basics (Gurobi)</title>
+      <link>https://bacas2.github.io/projects/mixed-integer/</link>
+      <pubDate>Wed, 25 Sep 2024 19:19:59 -0700</pubDate>
+      <guid>https://bacas2.github.io/projects/mixed-integer/</guid>
+      <description>Mixed integer programming (MIP) is the optimization method used by the Gurobi solver. MIP is used to solve decision making problems across a variety of industries, such a agriculture, transportation, and manufacturing.</description>
+    </item>
+  </channel>
+</rss>

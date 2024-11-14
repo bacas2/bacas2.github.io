@@ -2,7 +2,7 @@
 <html lang="en-us"><head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-	<meta name="generator" content="Hugo 0.115.0">
+	<meta name="generator" content="Hugo 0.122.0">
 	
 	<link rel="icon" href="/images/icon2.png">
 	
@@ -11,19 +11,19 @@
 	
 	
 
-	<meta name="twitter:card" content="summary_large_image"/>
-<meta name="twitter:image" content="https://bacas2.github.io/projects/poisson-forecast/cover.png"/>
-<meta name="twitter:title" content="Poisson Distributed Forecast"/>
-<meta name="twitter:description" content="This is an ongoing project wherein I am exploring methods for generating predictions for discrete time series data.
+	<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:image" content="https://bacas2.github.io/projects/poisson-forecast/cover.png" /><meta name="twitter:title" content="Poisson Distributed Forecast"/>
+<meta name="twitter:description" content="This was my capstone project for my master&rsquo;s program, wherein I explored methods for generating predictions for discrete time series data.
 This can be called many things: predictive maintenance, condition based maintenance."/>
 
 	<meta property="og:title" content="Poisson Distributed Forecast" />
-<meta property="og:description" content="This is an ongoing project wherein I am exploring methods for generating predictions for discrete time series data.
+<meta property="og:description" content="This was my capstone project for my master&rsquo;s program, wherein I explored methods for generating predictions for discrete time series data.
 This can be called many things: predictive maintenance, condition based maintenance." />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://bacas2.github.io/projects/poisson-forecast/" /><meta property="og:image" content="https://bacas2.github.io/projects/poisson-forecast/cover.png"/><meta property="article:section" content="projects" />
+<meta property="og:url" content="https://bacas2.github.io/projects/poisson-forecast/" /><meta property="og:image" content="https://bacas2.github.io/projects/poisson-forecast/cover.png" /><meta property="article:section" content="projects" />
 <meta property="article:published_time" content="2023-12-23T19:19:59-07:00" />
 <meta property="article:modified_time" content="2023-12-23T19:19:59-07:00" />
+
 
 
 	<link href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -127,9 +127,9 @@ This can be called many things: predictive maintenance, condition based maintena
                     
                     <div class="article-post">
                         <p><img src="distribution.png" alt=""></p>
-<p>This is an ongoing project wherein I am exploring methods for generating predictions for discrete time series data.</p>
+<p>This was my capstone project for my master&rsquo;s program, wherein I explored methods for generating predictions for discrete time series data.</p>
 <p>This can be called many things: predictive maintenance, condition based maintenance.</p>
-<p>This data falls within the exponential family of probability distributions, as the output event is rare, but could occur multiple times within a day. This data is best described by the negative binomial distribution, as it displays overdispersion. Another important quality of the data is a large occurance of having a zero recorded for the output. It makes sense that the machines wouldn&rsquo;t be erroring every single day, otherwise it would be too much effort to maintain, so having a large number of zeros is not strange.</p>
+<p>This data falls within the exponential family of probability distributions, as the output event is rare, but could occur multiple times within a day. This data is best described by the negative binomial distribution, as it displays overdispersion. Another important quality of the data is a large occurrence of having a zero recorded for the output. It makes sense that the machines wouldn&rsquo;t be erroring every single day, otherwise it would be too much effort to maintain, so having a large number of zeros is not strange.</p>
 <h4 id="current">Current</h4>
 <ol>
 <li>Convolutional Neural Network</li>
@@ -143,12 +143,12 @@ This can be called many things: predictive maintenance, condition based maintena
 <ol>
 <li>Forecasting with Prophet</li>
 </ol>
-<p>Prophet generates a generalzied additive model. By default, it assumes that the data following a Gaussian distribution. The developers of Prophet recognize that there is an interest in exploring exponential family distributions, however the preliminary implementation of a poisson distribution in the STAN code didn&rsquo;t show drammatically improved forecasts.</p>
+<p>Prophet generates a generalized additive model. By default, it assumes that the data following a Gaussian distribution. The developers of Prophet recognize that there is an interest in exploring exponential family distributions, however the preliminary implementation of a poisson distribution in the STAN code didn&rsquo;t show dramatically improved forecasts.</p>
 <p>I ran into a problem where the forecasts would be a zero value when trying to force the predictions to be positive. I&rsquo;m not able to overcome this, so I will have to set this approach aside.</p>
 <ol start="2">
 <li>Cross correlation</li>
 </ol>
-<p>This doesnt generate a forecast, but it does help reveal if there are any other error types that are contributing to the the type of interest. Computing the cross correlation over 24 hours didn&rsquo;t yeild significant results.</p>
+<p>This doesn&rsquo;t generate a forecast, but it does help reveal if there are any other error types that are contributing to the type of interest. Computing the cross correlation over 24 hours didn&rsquo;t yield significant results.</p>
 <ol start="3">
 <li>Logistic regression</li>
 </ol>
@@ -194,6 +194,8 @@ This can be called many things: predictive maintenance, condition based maintena
                     
                     <div class="row PageNavigation d-flex justify-content-between font-weight-bold">
                     
+                        <a class="d-block col-md-6" href="https://bacas2.github.io/projects/mixed-integer/"> &laquo; Mixed Integer Programming Basics (Gurobi)</a>
+                    
                     
                         <a class="d-block col-md-6 text-lg-right" href="https://bacas2.github.io/projects/world-energy-forecast/">Renewable Energy Momentum Index &raquo;</a>
                     
@@ -227,9 +229,15 @@ This can be called many things: predictive maintenance, condition based maintena
 			
 			<a class="mt-1 mb-1" href="/tags/data-visualization">data-visualization</a>
 			
+			<a class="mt-1 mb-1" href="/tags/forecasting">forecasting</a>
+			
 			<a class="mt-1 mb-1" href="/tags/genomics">genomics</a>
 			
 			<a class="mt-1 mb-1" href="/tags/machine-learning">machine-learning</a>
+			
+			<a class="mt-1 mb-1" href="/tags/mixed-integer-programming">mixed-integer-programming</a>
+			
+			<a class="mt-1 mb-1" href="/tags/plexos">plexos</a>
 			
 			<a class="mt-1 mb-1" href="/tags/power-bi">power-bi</a>
 			

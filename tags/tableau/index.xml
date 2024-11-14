@@ -7,24 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Sophia Baca - All rights reserved</copyright>
-    <lastBuildDate>Sat, 23 Dec 2023 19:19:59 -0700</lastBuildDate><atom:link href="https://bacas2.github.io/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Dec 2023 19:19:59 -0700</lastBuildDate>
+    <atom:link href="https://bacas2.github.io/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Renewable Energy Momentum Index</title>
       <link>https://bacas2.github.io/projects/world-energy-forecast/</link>
       <pubDate>Sat, 23 Dec 2023 19:19:59 -0700</pubDate>
-      
       <guid>https://bacas2.github.io/projects/world-energy-forecast/</guid>
       <description>Which nations offer the most attractive environment for renewable energy investments? To answer this question, my teammates and I created the Renewable Energy Momentum Index, a quantitative score encompassing each country&amp;rsquo;s market potential and receptivity to renewable energy.</description>
     </item>
-    
     <item>
       <title>Train Accidents in the U.S.</title>
       <link>https://bacas2.github.io/projects/trains/</link>
       <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
-      
       <guid>https://bacas2.github.io/projects/trains/</guid>
       <description>Have U.S. railroad operations become more dangerous recently? This project was inspired by recent news of the 2023 Norfolk Southern derailment in Ohio. This train accident and incident data was obtained from the Federal Railroad Administration.</description>
     </item>
-    
   </channel>
 </rss>

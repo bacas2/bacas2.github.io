@@ -2,6 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bacas2.github.io/tags/forecasting/</loc>
+    <lastmod>2024-09-25T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/projects/mixed-integer/</loc>
+    <lastmod>2024-09-25T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/mixed-integer-programming/</loc>
+    <lastmod>2024-09-25T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/plexos/</loc>
+    <lastmod>2024-09-25T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/projects/</loc>
+    <lastmod>2024-09-25T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/</loc>
+    <lastmod>2024-09-25T19:19:59-07:00</lastmod>
+  </url><url>
+    <loc>https://bacas2.github.io/tags/</loc>
+    <lastmod>2024-09-25T19:19:59-07:00</lastmod>
+  </url><url>
     <loc>https://bacas2.github.io/tags/data-analysis/</loc>
     <lastmod>2023-12-23T19:19:59-07:00</lastmod>
   </url><url>
@@ -12,9 +33,6 @@
     <lastmod>2023-12-23T19:19:59-07:00</lastmod>
   </url><url>
     <loc>https://bacas2.github.io/projects/poisson-forecast/</loc>
-    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
-  </url><url>
-    <loc>https://bacas2.github.io/projects/</loc>
     <lastmod>2023-12-23T19:19:59-07:00</lastmod>
   </url><url>
     <loc>https://bacas2.github.io/tags/python/</loc>
@@ -32,13 +50,7 @@
     <loc>https://bacas2.github.io/tags/root-cause-analysis/</loc>
     <lastmod>2023-12-23T19:19:59-07:00</lastmod>
   </url><url>
-    <loc>https://bacas2.github.io/</loc>
-    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
-  </url><url>
     <loc>https://bacas2.github.io/tags/tableau/</loc>
-    <lastmod>2023-12-23T19:19:59-07:00</lastmod>
-  </url><url>
-    <loc>https://bacas2.github.io/tags/</loc>
     <lastmod>2023-12-23T19:19:59-07:00</lastmod>
   </url><url>
     <loc>https://bacas2.github.io/tags/time-series/</loc>

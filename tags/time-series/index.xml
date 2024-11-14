@@ -7,25 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Sophia Baca - All rights reserved</copyright>
-    <lastBuildDate>Sat, 23 Dec 2023 19:19:59 -0700</lastBuildDate><atom:link href="https://bacas2.github.io/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 23 Dec 2023 19:19:59 -0700</lastBuildDate>
+    <atom:link href="https://bacas2.github.io/tags/time-series/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Poisson Distributed Forecast</title>
       <link>https://bacas2.github.io/projects/poisson-forecast/</link>
       <pubDate>Sat, 23 Dec 2023 19:19:59 -0700</pubDate>
-      
       <guid>https://bacas2.github.io/projects/poisson-forecast/</guid>
-      <description>This is an ongoing project wherein I am exploring methods for generating predictions for discrete time series data.
-This can be called many things: predictive maintenance, condition based maintenance.</description>
+      <description>This was my capstone project for my master&amp;rsquo;s program, wherein I explored methods for generating predictions for discrete time series data.&#xA;This can be called many things: predictive maintenance, condition based maintenance.</description>
     </item>
-    
     <item>
       <title>RNA-Seq Analysis for Rice</title>
       <link>https://bacas2.github.io/projects/rna-seq-rice/</link>
       <pubDate>Mon, 10 Jul 2023 19:19:59 -0700</pubDate>
-      
       <guid>https://bacas2.github.io/projects/rna-seq-rice/</guid>
       <description>I performed data analysis for a research paper wherein we were interested in studying time series RNA-Seq data for rice. My fellow developers and I created a data analysis pipeline for the RNA-Seq data wherein we identified differentially expressed genes (DEGs) and described their gene ontology (cellular component, molecular function, biological process).</description>
     </item>
-    
   </channel>
 </rss>
